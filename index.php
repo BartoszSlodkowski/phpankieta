@@ -30,7 +30,7 @@
 				  </label>
 				</div>
 				<div class="form-check">
-				  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios3" value="option3" >
+				  <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios3" value="option3" >
 				  <label class="form-check-label" for="exampleRadios3">
 				    Default radio
 				  </label>
